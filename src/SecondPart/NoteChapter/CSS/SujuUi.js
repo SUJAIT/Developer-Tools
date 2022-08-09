@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Firebase = () => {
+const SujuUi = () => {
     return (
         <div>
-            <h1>Firebase</h1>
+            <h1>Suju?</h1>
         </div>
     );
 };
 
-export default Firebase;
+export default SujuUi;

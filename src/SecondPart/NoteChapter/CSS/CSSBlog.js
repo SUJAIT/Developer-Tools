@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Short = () => {
+const CSSBlog = () => {
     return (
         <div>
-            <h1>Short-Cut-Key</h1>
+            <h1>Blog</h1>
         </div>
     );
 };
 
-export default Short;
+export default CSSBlog;

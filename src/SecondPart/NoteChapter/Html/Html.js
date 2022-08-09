@@ -1,9 +1,10 @@
 import React from 'react';
+import HtmlBlog from './HtmlBlog';
 
 const Html = () => {
     return (
         <div>
-            <h1>Html</h1>
+        <HtmlBlog></HtmlBlog>
         </div>
     );
 };
